@@ -7,8 +7,6 @@ A platform featuring product listings and shopping cart functionality.
 ## Features
 
 - 🛒 Interactive shopping cart with quantity controls
-- 🎨 Beautiful UI with animations and transitions
-- 📱 Fully responsive design
 - 🛡️ Local storage persistence for cart items
 - 🖼️ Product image gallery
 - 📦 Clean component-based architecture
