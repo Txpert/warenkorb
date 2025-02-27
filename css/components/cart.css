@@ -1,0 +1,27 @@
+/* Cart styling improvements */
+.cart {
+  background: rgba(255, 255, 255, 0.95);
+  backdrop-filter: blur(10px);
+  border-radius: 12px;
+  padding: 2rem;
+  position: sticky;
+  top: 2rem;
+  box-shadow: var(--shadow);
+}
+
+.cart-item {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  padding: 1rem 0;
+  border-bottom: 1px solid #eee;
+}
+
+.cart-total {
+  font-size: 1.25rem;
+  font-weight: bold;
+  color: var(--secondary-color);
+  margin-top: 1.5rem;
+  padding-top: 1rem;
+  border-top: 2px solid var(--accent-color);
+}
